@@ -21,8 +21,6 @@
 <div align="center">
 <br />
 
-[![Project license](https://img.shields.io/github/license/xeekey2/slutterp-toppen.svg?style=flat-square)](LICENSE)
-
 [![Pull Requests welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)](https://github.com/xeekey2/slutterp-toppen/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
 [![code with love by xeekey2](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-xeekey2-ff1414.svg?style=flat-square)](https://github.com/xeekey2)
 
