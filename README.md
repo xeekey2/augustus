@@ -1,10 +1,3 @@
-<h1 align="center">
-  <a href="https://github.com/xeekey2/slutterp-toppen">
-    <!-- Please provide path to your logo here -->
-    <img src="docs/images/logo.svg" alt="Logo" width="100" height="100">
-  </a>
-</h1>
-
 <div align="center">
   Slutter på toppen
   <br />
