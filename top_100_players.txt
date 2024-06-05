@@ -1,0 +1,102 @@
+Top 100 Players:
+           Player Name  Fantasy Score     Price Nationality
+            Harry Kane   89177.518776 9300000.0         ENG
+       Jude Bellingham   55239.515679 8300000.0         ENG
+           Bukayo Saka   44408.238095 7300000.0         ENG
+          Jarrod Bowen   41880.939992 3800000.0         ENG
+         Gerard Moreno    40090.35036 4300000.0         ESP
+        Olivier Giroud   38274.712984 6300000.0         FRA
+     Antoine Griezmann   37855.952448 7300000.0         FRA
+         Marcus Thuram   33249.586553 5800000.0         FRA
+        Anthony Gordon   30417.837882 3300000.0         ENG
+         Nico Williams   27764.435187 4300000.0         ESP
+           Declan Rice   25814.544909 4800000.0         ENG
+          Lamine Yamal   21539.225504 4300000.0         ESP
+          Mikel Merino   18177.612275 3800000.0         ESP
+        James Maddison   16969.001548 4800000.0         ENG
+       Conor Gallagher   16969.001548 4800000.0         ENG
+            Alex Baena   14193.478078 2800000.0         ESP
+       Youssouf Fofana   13065.328721 3800000.0         FRA
+         Adrien Rabiot   12897.824507 4300000.0         FRA
+          Mike Maignan   12730.320292 5800000.0         FRA
+       Kieran Trippier   12185.187282 4300000.0         ENG
+Trent Alexander-Arnold   11643.623403 4800000.0         ENG
+         Florian Wirtz   11600.006133 6800000.0         GER
+       Jonathan Clauss    11306.53447 3800000.0         FRA
+       Niclas Füllkrug   10104.894231 6800000.0         GER
+           Cole Palmer     9387.10724 5800000.0         ENG
+            Ivan Toney     9387.10724 3300000.0         ENG
+        Kingsley Coman    8961.475469 4300000.0         FRA
+         Kobbie Mainoo    8123.458188 3300000.0         ENG
+         Pablo Sarabia    7968.268395 4800000.0         ESP
+            Phil Foden    7942.936895 7800000.0         ENG
+         Romelu Lukaku    7581.725521 8300000.0         BEL
+            Lewis Dunk    7130.591076 3800000.0         ENG
+         Harry Maguire     7040.33043 4800000.0         ENG
+        William Saliba    5527.639074 4300000.0         FRA
+       Kevin De Bruyne    5314.079519 7300000.0         BEL
+     Randal Kolo Muani    4690.118002 4800000.0         FRA
+     Gianluca Scamacca    4588.153805 4300000.0         ITA
+            David Raum     3660.44638 3800000.0         GER
+           Kyle Walker    3610.425861 5300000.0         ENG
+          Jonathan Tah      3299.5573 4800000.0         GER
+    Lorenzo Pellegrini    3092.016695 3800000.0         ITA
+      Federico Dimarco    3079.548886 4800000.0         ITA
+       Federico Chiesa    3054.613267 6800000.0         ITA
+       Mikel Oyarzabal    2988.100648 4800000.0         ESP
+            Toni Kroos     2938.66822 4300000.0         GER
+         Thomas Müller    2784.001472 4800000.0         GER
+       Davide Frattesi    2643.175562 4300000.0         ITA
+           Deniz Undav    2577.779141 3300000.0         GER
+          Adam Wharton    2527.298103 3300000.0         ENG
+Maximilian Mittelstädt    2526.223558 3800000.0         GER
+      Robin Le Normand    2241.075486 4300000.0         ESP
+         Mateo Retegui    2231.737856 4800000.0         ITA
+     Randal Kolo Muani     2093.80268 4800000.0         FRA
+         Chris Führich    1959.112147 3300000.0         GER
+     Benjamin Henrichs    1933.334355 3300000.0         GER
+           Jeremy Doku    1924.063274 4800000.0         BEL
+  Charles De Ketelaere    1832.441214 3300000.0         BEL
+    Warren Zaire-Emery    1675.042144 3800000.0         FRA
+   Aleksandar Pavlovic    1546.667484 2800000.0         GER
+        Joshua Kimmich    1495.111902 5300000.0         GER
+      Gianluca Mancini    1446.265873 3300000.0         ITA
+      Francesco Acerbi    1408.862446 3300000.0         ITA
+          Orel Mangala     1374.33091 3300000.0         BEL
+       Youri Tielemans     1374.33091 4300000.0         BEL
+      Timothy Castagne    1351.425395 3800000.0         BEL
+         Jamal Musiala    1340.445153 7300000.0         GER
+         Arthur Theate    1236.897819 3800000.0         BEL
+       Raoul Bellanova    1234.313116 2800000.0         ITA
+       Dayot Upamecano    1088.777393 4300000.0         FRA
+   Giovanni Di Lorenzo    1034.828168 4300000.0         ITA
+           Kai Havertz    1031.111656 7300000.0         GER
+ Alessandro Buongiorno     960.021313 3800000.0         ITA
+        Matteo Darmian     922.617885 4300000.0         ITA
+          Amadou Onana     916.220607 3300000.0         BEL
+            Robin Koch     773.333742 2800000.0         GER
+    Leander Dendoncker     687.165455 2800000.0         BEL
+    Alessandro Bastoni     635.858272 4300000.0         ITA
+           Jeremy Doku     572.637879 4800000.0         BEL
+    Dominik Szoboszlai     532.311727 4800000.0         HUN
+   Stephan El Shaarawy      498.71237 3800000.0         ITA
+     Giacomo Raspadori     448.841133 5300000.0         ITA
+            Ozan Kabak     427.310023 3300000.0         TUR
+       Lazar Samardzic     389.820044 2800000.0         SRB
+         Koen Casteels     366.488243 4800000.0         BEL
+             Matz Sels      358.34406 5300000.0         BEL
+      Maximilian Beier     309.333497 2800000.0         GER
+      Giorgio Scalvini     299.227422 3300000.0         ITA
+         Patrik Schick     287.724423 4800000.0         CZE
+      Yannick Carrasco     274.866182 4300000.0         BEL
+        Dodi Lukebakio     274.866182 3800000.0         BEL
+   Michael Gregoritsch      270.11105 4300000.0         AUT
+             Matz Sels     266.721999 5300000.0         BEL
+              Jorginho     249.356185 4300000.0         ITA
+        Robert Andrich     206.222331 3300000.0         GER
+        Waldemar Anton     206.222331 2800000.0         GER
+       Bryan Cristante     199.484948 3300000.0         ITA
+     Riccardo Orsolini     199.484948 4300000.0         ITA
+       Antonio Rüdiger      180.44454 4800000.0         GER
+          Artem Dovbyk     173.620383 5800000.0         UKR
+       Marcel Sabitzer     168.348283 4300000.0         AUT
