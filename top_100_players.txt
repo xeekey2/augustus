@@ -1,102 +1,183 @@
 Top 100 Players:
-           Player Name  Fantasy Score     Price Nationality
-            Harry Kane   89177.518776 9300000.0         ENG
-       Jude Bellingham   55239.515679 8300000.0         ENG
-           Bukayo Saka   44408.238095 7300000.0         ENG
-          Jarrod Bowen   41880.939992 3800000.0         ENG
-         Gerard Moreno    40090.35036 4300000.0         ESP
-        Olivier Giroud   38274.712984 6300000.0         FRA
-     Antoine Griezmann   37855.952448 7300000.0         FRA
-         Marcus Thuram   33249.586553 5800000.0         FRA
-        Anthony Gordon   30417.837882 3300000.0         ENG
-         Nico Williams   27764.435187 4300000.0         ESP
-           Declan Rice   25814.544909 4800000.0         ENG
-          Lamine Yamal   21539.225504 4300000.0         ESP
-          Mikel Merino   18177.612275 3800000.0         ESP
-        James Maddison   16969.001548 4800000.0         ENG
-       Conor Gallagher   16969.001548 4800000.0         ENG
-            Alex Baena   14193.478078 2800000.0         ESP
-       Youssouf Fofana   13065.328721 3800000.0         FRA
-         Adrien Rabiot   12897.824507 4300000.0         FRA
-          Mike Maignan   12730.320292 5800000.0         FRA
-       Kieran Trippier   12185.187282 4300000.0         ENG
-Trent Alexander-Arnold   11643.623403 4800000.0         ENG
-         Florian Wirtz   11600.006133 6800000.0         GER
-       Jonathan Clauss    11306.53447 3800000.0         FRA
-       Niclas Füllkrug   10104.894231 6800000.0         GER
-           Cole Palmer     9387.10724 5800000.0         ENG
-            Ivan Toney     9387.10724 3300000.0         ENG
-        Kingsley Coman    8961.475469 4300000.0         FRA
-         Kobbie Mainoo    8123.458188 3300000.0         ENG
-         Pablo Sarabia    7968.268395 4800000.0         ESP
-            Phil Foden    7942.936895 7800000.0         ENG
-         Romelu Lukaku    7581.725521 8300000.0         BEL
-            Lewis Dunk    7130.591076 3800000.0         ENG
-         Harry Maguire     7040.33043 4800000.0         ENG
-        William Saliba    5527.639074 4300000.0         FRA
-       Kevin De Bruyne    5314.079519 7300000.0         BEL
-     Randal Kolo Muani    4690.118002 4800000.0         FRA
-     Gianluca Scamacca    4588.153805 4300000.0         ITA
-            David Raum     3660.44638 3800000.0         GER
-           Kyle Walker    3610.425861 5300000.0         ENG
-          Jonathan Tah      3299.5573 4800000.0         GER
-    Lorenzo Pellegrini    3092.016695 3800000.0         ITA
-      Federico Dimarco    3079.548886 4800000.0         ITA
-       Federico Chiesa    3054.613267 6800000.0         ITA
-       Mikel Oyarzabal    2988.100648 4800000.0         ESP
-            Toni Kroos     2938.66822 4300000.0         GER
-         Thomas Müller    2784.001472 4800000.0         GER
-       Davide Frattesi    2643.175562 4300000.0         ITA
-           Deniz Undav    2577.779141 3300000.0         GER
-          Adam Wharton    2527.298103 3300000.0         ENG
-Maximilian Mittelstädt    2526.223558 3800000.0         GER
-      Robin Le Normand    2241.075486 4300000.0         ESP
-         Mateo Retegui    2231.737856 4800000.0         ITA
-     Randal Kolo Muani     2093.80268 4800000.0         FRA
-         Chris Führich    1959.112147 3300000.0         GER
-     Benjamin Henrichs    1933.334355 3300000.0         GER
-           Jeremy Doku    1924.063274 4800000.0         BEL
-  Charles De Ketelaere    1832.441214 3300000.0         BEL
-    Warren Zaire-Emery    1675.042144 3800000.0         FRA
-   Aleksandar Pavlovic    1546.667484 2800000.0         GER
-        Joshua Kimmich    1495.111902 5300000.0         GER
-      Gianluca Mancini    1446.265873 3300000.0         ITA
-      Francesco Acerbi    1408.862446 3300000.0         ITA
-          Orel Mangala     1374.33091 3300000.0         BEL
-       Youri Tielemans     1374.33091 4300000.0         BEL
-      Timothy Castagne    1351.425395 3800000.0         BEL
-         Jamal Musiala    1340.445153 7300000.0         GER
-         Arthur Theate    1236.897819 3800000.0         BEL
-       Raoul Bellanova    1234.313116 2800000.0         ITA
-       Dayot Upamecano    1088.777393 4300000.0         FRA
-   Giovanni Di Lorenzo    1034.828168 4300000.0         ITA
-           Kai Havertz    1031.111656 7300000.0         GER
- Alessandro Buongiorno     960.021313 3800000.0         ITA
-        Matteo Darmian     922.617885 4300000.0         ITA
-          Amadou Onana     916.220607 3300000.0         BEL
-            Robin Koch     773.333742 2800000.0         GER
-    Leander Dendoncker     687.165455 2800000.0         BEL
-    Alessandro Bastoni     635.858272 4300000.0         ITA
-           Jeremy Doku     572.637879 4800000.0         BEL
-    Dominik Szoboszlai     532.311727 4800000.0         HUN
-   Stephan El Shaarawy      498.71237 3800000.0         ITA
-     Giacomo Raspadori     448.841133 5300000.0         ITA
-            Ozan Kabak     427.310023 3300000.0         TUR
-       Lazar Samardzic     389.820044 2800000.0         SRB
-         Koen Casteels     366.488243 4800000.0         BEL
-             Matz Sels      358.34406 5300000.0         BEL
-      Maximilian Beier     309.333497 2800000.0         GER
-      Giorgio Scalvini     299.227422 3300000.0         ITA
-         Patrik Schick     287.724423 4800000.0         CZE
-      Yannick Carrasco     274.866182 4300000.0         BEL
-        Dodi Lukebakio     274.866182 3800000.0         BEL
-   Michael Gregoritsch      270.11105 4300000.0         AUT
-             Matz Sels     266.721999 5300000.0         BEL
-              Jorginho     249.356185 4300000.0         ITA
-        Robert Andrich     206.222331 3300000.0         GER
-        Waldemar Anton     206.222331 2800000.0         GER
-       Bryan Cristante     199.484948 3300000.0         ITA
-     Riccardo Orsolini     199.484948 4300000.0         ITA
-       Antonio Rüdiger      180.44454 4800000.0         GER
-          Artem Dovbyk     173.620383 5800000.0         UKR
-       Marcel Sabitzer     168.348283 4300000.0         AUT
+           Player Name  Fantasy Score            Price Nationality
+            Harry Kane  958658.326843       20115000.0         ENG
+       Jude Bellingham   593824.79355       14885000.0         ENG
+         Nico Williams  523857.267688   8403247.038175         ESP
+           Bukayo Saka  477388.559521       12535000.0         ENG
+          Lamine Yamal  406400.481211   7415971.917508         ESP
+        Olivier Giroud  403509.079571  11041985.902544         FRA
+     Antoine Griezmann    399094.3194  11986821.942997         FRA
+           Rafael Leão  364408.510628   7700576.822234         POR
+         Marcus Thuram  350531.957526   9880018.387987         FRA
+          Mikel Merino  342973.816513   6382843.352348         ESP
+            Diogo Jota  307360.532926   7699528.054536         POR
+               Vitinha  300375.066268   5638175.144206         POR
+           Declan Rice   277506.35777        7717500.0         ENG
+            Alex Baena  267801.473168   4750987.275121         ESP
+        James Maddison  182416.766646        6615000.0         ENG
+       Conor Gallagher  182416.766646        6615000.0         ENG
+       Youssouf Fofana  137740.517315   5221115.537849         FRA
+         Adrien Rabiot  135974.613247    5699049.95403         FRA
+       Kieran Trippier  130990.763283        5518750.0         ENG
+Trent Alexander-Arnold  125168.951582        5951250.0         ENG
+       Jonathan Clauss    119198.5246   4989426.907754         FRA
+               Vitinha  110603.222076   3971421.080231         POR
+            Pedro Neto  107110.488747   3440744.625066         POR
+          João Cancelo  104781.999861   5920293.654955         POR
+           Cole Palmer  100911.402826        6670000.0         ENG
+            Ivan Toney  100911.402826        4170000.0         ENG
+        Kingsley Coman   94475.867646   5180508.734294         FRA
+         João Palhinha   93139.555432   4318038.804405         POR
+        Bernardo Silva    88482.57766   7277136.864185         POR
+            Phil Foden   85386.571622        8490000.0         ENG
+           Diogo Dalot   83825.599889   4736234.923964         POR
+         Harry Maguire   75683.552119        5377500.0         ENG
+       Bruno Fernandes   69854.666574   7613529.103304         POR
+     Gianluca Scamacca   68563.201958   9754995.655951         ITA
+         Romelu Lukaku   63397.519638  10896518.196129         BEL
+        William Saliba   58274.834249   4728164.266013         FRA
+       Mikel Oyarzabal   56379.257509    4973892.05792         ESP
+     Randal Kolo Muani   49445.313908    5117836.34692         FRA
+      Teun Koopmeiners     46661.8831  10032453.444223         NED
+    Lorenzo Pellegrini   46205.636102   7378366.637706         ITA
+      Federico Dimarco   46019.323053   8362728.062554         ITA
+       Federico Chiesa   45646.696956   10331450.91225         ITA
+       Kevin De Bruyne   44435.723734   9030187.980369         BEL
+      Jeremie Frimpong   43745.515406   10186675.10396         NED
+      Robin Le Normand   42284.443132    4355419.04344         ESP
+           Nuno Mendes   40748.555502   3357891.976927         POR
+       Davide Frattesi   39498.366345   7315377.932233         ITA
+           Kyle Walker    38812.07801        5450000.0         ENG
+           Xavi Simons   37096.197065   8898300.488158         NED
+         Mateo Retegui   33350.035735   7299304.952215         ITA
+         Wout Weghorst   22747.668011   6697071.054059         NED
+     Randal Kolo Muani   22073.800852   4775819.797732         FRA
+      Gianluca Mancini   21612.313661   4814074.717637         ITA
+      Francesco Acerbi   21053.374514   4767158.992181         ITA
+       Denzel Dumfries   19831.300318   6851292.713795         NED
+    Warren Zaire-Emery   17659.040681   3720655.838186         FRA
+           Jeremy Doku   16088.796525   5235068.061858         BEL
+   Giovanni Di Lorenzo    15463.98305   5298001.737619         ITA
+  Charles De Ketelaere   15322.663357   3700064.820817         BEL
+ Alessandro Buongiorno   14346.104758   4704170.286707         ITA
+        Matteo Darmian   13787.165611   5157254.561251         ITA
+       Youri Tielemans   11491.997518   4525048.615613         BEL
+          Orel Mangala   11491.997518   3525048.615613         BEL
+       Dayot Upamecano   11478.376443   4143426.294821         FRA
+      Timothy Castagne   11300.464226   4016297.805352         BEL
+     Tijjani Reijnders   10965.542529   5300126.559393         NED
+         Arthur Theate   10342.797766   3972543.754051         BEL
+      Micky Van De Ven    9915.650159   3675646.356897         NED
+    Alessandro Bastoni    9501.965489   4797567.332754         ITA
+          Mike Maignan    8785.372739   5609776.279497         FRA
+       Virgil Van Dijk    8399.138958    4995841.61996         NED
+          Amadou Onana    7661.331678   3350032.410408         BEL
+   Stephan El Shaarawy    7452.521952   4125543.006082         ITA
+            Ozan Kabak    6792.728639   4430683.918669         TUR
+     Giacomo Raspadori    6707.269757   5562988.705474         ITA
+            Cody Gakpo    6532.663634   6274543.482191         NED
+      Matthijs De Ligt    5832.735388   4191556.680528         NED
+    Leander Dendoncker    5745.998759   2762524.307806         BEL
+           Jeremy Doku    4788.332299   4718770.256505         BEL
+       Lazar Samardzic    4567.373816   4854223.433243         SRB
+      Giorgio Scalvini    4471.513171   3375325.803649         ITA
+           Daley Blind    4082.914771    3484089.67637         NED
+        Stefan De Vrij    4082.914771    3484089.67637         NED
+       Frenkie De Jong    3732.950648   3942596.275538         NED
+              Jorginho    3726.260976   4312771.503041         ITA
+   Michael Gregoritsch    3199.075056   6664799.853103         AUT
+       Bryan Cristante    2981.008781   3250217.202433         ITA
+     Riccardo Orsolini    2981.008781   4250217.202433         ITA
+    Dominik Szoboszlai    2776.155762   5100363.856883         HUN
+        Marten De Roon    2333.094155   3276622.672211         NED
+      Yannick Carrasco    2298.399504   4105009.723123         BEL
+        Dodi Lukebakio    2298.399504   3605009.723123         BEL
+       Marcel Sabitzer    1993.842128   5660852.001469         AUT
+             Enes Ünal    1579.704335   2832717.190388         TUR
+          Artem Dovbyk    1363.282623  11153503.766263         UKR
+      Maximilian Wöber    1190.353509   3491553.433713         AUT
+          Orel Mangala    1149.199752   3052504.861561         BEL
+             Enes Ünal     947.822601   2699630.314233         TUR
+         Ryan Christie     842.104812   2882225.717656         SCO
+         Romano Schmid     773.729781   3144509.731913         AUT
+      Leandro Trossard     766.133168   4535003.241041         BEL
+    Florian Grillitsch     595.176755   2995776.716856         AUT
+        Phillipp Mwene     491.020823   2909015.791407         AUT
+         Florian Kainz     476.141404   2896621.373485         AUT
+        Kieran Tierney     467.836007    3212347.62092         SCO
+          Stefan Posch     461.261985   3384226.955564         AUT
+            Ianis Hagi     358.865671   3141176.470588         ROU
+         Konrad Laimer     357.106053   3297466.030114         AUT
+      Philipp Lienhart     342.226634   3285071.612192         AUT
+       Nicolas Seiwald     297.588377   3247888.358428         AUT
+       Mykhailo Mudryk     255.615492   5060031.956174         UKR
+    Ruslan Malinovskyi     206.077606   3854599.406528         UKR
+             Matz Sels     190.767159   5008715.807019         BEL
+           Kevin Danso     163.673608   2636338.597136         AUT
+       Roman Yaremchuk     132.761535   4050559.233052         UKR
+     Vitaliy Mykolenko     130.780019   3042341.931066         UKR
+       Scott Mctominay      93.567201   4042469.524184         SCO
+   Oleksandr Zinchenko       91.14971   3377995.891349         UKR
+    Robert Lewandowski      51.266764  10602320.185615         POL
+           John Mcginn      46.783601   3521234.762092         SCO
+           Ondrej Duda      33.635995   3012526.096033         SVK
+        Illia Zabarnyi      29.722732   3123259.529788         UKR
+    Georges Mikautadze       6.773364   4921199.647163         GEO
+          Jakub Kiwior        6.23389   3559628.770302         POL
+ Khvicha Kvaratskhelia       5.877713   5667156.718612         GEO
+           Myrto Uzuni       4.253628   5192819.148936         ALB
+      Kristjan Asllani       0.773387   2989603.481625         ALB
+         Nedim Bajrami       0.371226    3235009.67118         ALB
+             Jan Oblak       0.159864   3520182.056893         SVN
+         Roland Sallai            0.0        3000000.0         HUN
+       Aymeric Laporte            0.0        4000000.0         ESP
+    Leander Dendoncker            0.0        2500000.0         BEL
+           Cole Palmer            0.0        5500000.0         ENG
+            David Zima            0.0        2500000.0         CZE
+         Attila Szalai            0.0        2500000.0         HUN
+         Scott Mckenna            0.0        2500000.0         SCO
+             Ansu Fati            0.0        4000000.0         ESP
+ Christoph Baumgartner           -0.0        3500000.0         AUT
+       Benjamin Pavard           -0.0        4500000.0         FRA
+       Marash Kumbulla      -0.061871    1960831.72147         ALB
+          Elseid Hysaj      -0.123742    2421663.44294         ALB
+        Ardian Ismajli      -0.123742    2421663.44294         ALB
+        Berat Djimsiti      -0.123742    2921663.44294         ALB
+          Saba Sazonov      -0.149275   1957659.511908         GEO
+        Ylber Ramadani       -0.34029   2284574.468085         ALB
+  Giorgi Mamardashvili      -0.400232   2886478.094678         GEO
+            Jaka Bijol      -0.499186   2436980.306346         SVN
+         Klaus Gjasula      -0.587774   1627901.353965         ALB
+           Jakub Moder      -0.744345   1933178.654292         POL
+       Nicola Zalewski      -0.930431   2916473.317865         POL
+          Andriy Lunin     -17.373927   3427950.696188         UKR
+     Stanislav Lobotka      -67.27199   2474947.807933         SVK
+          Mark Flekken     -93.323766   3988935.093112         NED
+         Attila Szalai    -100.951119   2478168.587022         HUN
+      Flavius Daniliuc    -119.035351   1900844.656629         AUT
+          Andrei Ratiu     -119.62189   2452941.176471         ROU
+           Willi Orban    -201.902237   2956337.174045         HUN
+            Arda Güler    -315.940867   2933456.561922         TUR
+        Patrick Wimmer    -327.347215   2727322.805729         AUT
+          Milos Kerkez    -353.328915   2423590.054579         HUN
+        Nemanja Gudelj    -380.614485   2303814.713896         SRB
+             Matz Sels    -575.366009   4973712.565978         BEL
+         Billy Gilmour     -701.75401    2181478.56862         SCO
+         Koen Casteels    -727.826509   4466746.921011         BEL
+       Bart Verbruggen     -870.01081   4396847.405532         NED
+         Donyell Malen    -933.237662   3389350.931116         NED
+           Salih Özcan    -947.822601   2300369.685767         TUR
+          Cenk Özkacar    -947.822601   1800369.685767         TUR
+      Arthur Vermeeren   -1532.266336   2429993.517918         BEL
+       Mattia Zaccagni   -3726.260976   2687228.496959         ITA
+  Gianluigi Donnarumma   -4487.163467   4623360.556038         ITA
+         Aster Vranckx   -4596.799007   2289980.553755         BEL
+           John Stones   -7762.415602        4410000.0         ENG
+        Danilo Pereira   -9313.955543    2918196.11956         POR
+               Vitinha   -9313.955543    2918196.11956         POR
+     Eduardo Camavinga  -10595.424409   3367606.497089         FRA
+         Jack Grealish  -11643.623403        3865000.0         ENG
+           Brice Samba  -14127.232545   4823475.329451         FRA
+            David Raya   -18482.99992   4344642.387012         ESP
+             Ansu Fati  -18793.085836   3842035.980693         ESP
+       Jordan Pickford  -23141.701513        5231687.5         ENG
