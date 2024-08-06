@@ -1,5 +1,5 @@
 <div align="center">
-  Slutter på toppen
+  augustus
   <br />
   <br />
   <a href="https://github.com/xeekey2/slutterp-toppen/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
@@ -43,7 +43,7 @@
 
 Edit: Team placed 2.814/55.000 during the euros.
 
-- Slutter på toppen is a comprehensive tool for optimizing fantasy football teams using statistical analysis and machine learning. The project aims to help users make data-driven decisions in selecting the best players for their fantasy football teams, considering various factors such as player performance, match difficulty, and budget constraints.
+- augustus is a comprehensive tool for optimizing fantasy football teams using statistical analysis and machine learning. The project aims to help users make data-driven decisions in selecting the best players for their fantasy football teams, considering various factors such as player performance, match difficulty, and budget constraints.
 
 <details>
 <summary>Screenshots</summary>
