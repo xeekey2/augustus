@@ -43,20 +43,15 @@
 
 Edit: Team placed 2.814/55.000 during the euros.
 
-- augustus is a comprehensive tool for optimizing fantasy football teams using statistical analysis and machine learning. The project aims to help users make data-driven decisions in selecting the best players for their fantasy football teams, considering various factors such as player performance, match difficulty, and budget constraints.
+- augustus is a tool for optimizing fantasy football teams using statistical analysis and machine learning. The project aims to help users make data-driven decisions in selecting the best players for their fantasy football teams, considering various factors such as player performance, match difficulty, and budget constraints.
 
-<details>
-<summary>Screenshots</summary>
-<br>
-</details>
+It's bad, but I had fun.
 
 ### Built With
 
 - [Pandas](https://pandas.pydata.org/)
 - [PuLP](https://coin-or.github.io/pulp/)
 - [Soccerdata](https://github.com/football-data-uk/soccerdata)
-
-## Getting Started
 
 ### Prerequisites
 
@@ -69,24 +64,9 @@ Edit: Team placed 2.814/55.000 during the euros.
 
 - Ensure you have the necessary data files (cleaned_player_prices.csv, aggregated_player_stats.csv) in the data directory.
 
-## Roadmap
-
-See the [open issues](https://github.com/xeekey2/slutterp-toppen/issues) for a list of proposed features (and known issues).
-
-Reach out to the maintainer at one of the following places:
-
-- [GitHub issues](https://github.com/xeekey2/slutterp-toppen/issues/new?assignees=&labels=question&template=04_SUPPORT_QUESTION.md&title=support%3A+)
-- Contact options listed on [this GitHub profile](https://github.com/xeekey2)
-
-
-Please read [our contribution guidelines](docs/CONTRIBUTING.md), and thank you for being involved!
-
 ## Authors & contributors
 
 The original setup of this repository is by [Kasper Hjort Jæger](https://github.com/xeekey2).
-
-For a full list of all authors and contributors, see [the contributors page](https://github.com/xeekey2/slutterp-toppen/contributors).
-
 
 ## License
 
